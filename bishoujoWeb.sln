@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bishoujoWeb", "bishoujoWeb\bishoujoWeb.csproj", "{D2C4BA4A-B890-4724-AD63-313E43DD7711}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bishoujoWeb.Tests", "bishoujoWeb.Tests\bishoujoWeb.Tests.csproj", "{23218546-C383-40A3-AC0E-02CED203A771}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2C4BA4A-B890-4724-AD63-313E43DD7711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C4BA4A-B890-4724-AD63-313E43DD7711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C4BA4A-B890-4724-AD63-313E43DD7711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C4BA4A-B890-4724-AD63-313E43DD7711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23218546-C383-40A3-AC0E-02CED203A771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23218546-C383-40A3-AC0E-02CED203A771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23218546-C383-40A3-AC0E-02CED203A771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23218546-C383-40A3-AC0E-02CED203A771}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
